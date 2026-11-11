@@ -1,0 +1,10 @@
+# compiled executable (no extension on Mac)
+/DSA_OpenEndedLab
+/lab
+/Task
+a.out
+*.o
+*.exe
+
+# Mac junk
+.DS_Store
